@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Mar 06 08:34:31 CET 2018
+nd4j-native-0.9.1-linux-x86_64.jar>central=
+nd4j-native-0.9.1-linux-ppc64le.jar>central=
+nd4j-native-0.9.1-android-arm.jar>central=
+nd4j-native-0.9.1-windows-x86_64.jar>central=
+nd4j-native-0.9.1-macosx-x86_64.jar>central=
+nd4j-native-0.9.1-android-x86.jar>central=
+nd4j-native-0.9.1.jar>central=
+nd4j-native-0.9.1.pom>central=
